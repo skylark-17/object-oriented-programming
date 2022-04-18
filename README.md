@@ -1,2 +1,1 @@
-# object-oriented-programming
-Implementation of some classes from C++
+# Implementation of some classes from C++
